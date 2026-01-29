@@ -36,7 +36,7 @@ Currently translating my background in Asset Management into **Application Secur
 
 ### 📫 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/yash-prashant-anap/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yash LinkedIn" /></a>
+<a href="https://linkedin.com/in/yash-prashant-anap" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yash LinkedIn" /></a>
 <a href="mailto:yashanap27@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Yash Gmail" /></a>
 </p>
 
