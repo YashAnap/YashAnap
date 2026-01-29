@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**YashAnap/YashAnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Yash! 👨‍💻
+### 🔒 Aspiring Cybersecurity Analyst | 🐍 Python Automation | 🛡️ Ethical Hacker
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/QuehOuyVX4Qv6t7jXg/giphy.gif" width="600" height="300"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+I am an Engineering graduate pivoting into **Cybersecurity** and **Security Automation**. 
+I build tools to automate security audits and vulnerability assessments. 
+Currently translating my background in Asset Management into **Application Security (AppSec)**.
+
+* 🔭 I’m currently working on: **Automated Port Scanner & Asset Dashboard**
+* 🌱 I’m currently learning: **Network Security, Linux Hardening, & Cloud Sec**
+* 👯 I’m looking to collaborate on: **Python Security Tools**
+* ⚡ Fun fact: I hacked my own company's firewall (legally, on localhost!).
+
+---
+
+### 🛠️ My Tech Stack
+<div align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,mysql,vscode,docker,aws,kali" />
+	</a>
+</div>
+
+### 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YashAnap&show_icons=true&theme=radical" alt="Yash's Stats" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAnap&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</div>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/yash-prashant-anap/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yash LinkedIn" /></a>
+<a href="mailto:yashanap27@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Yash Gmail" /></a>
+</p>
+
+</div>
