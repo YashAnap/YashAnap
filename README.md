@@ -3,7 +3,7 @@
 # Hi there, I'm Yash! 👨‍💻
 ### 🔒 Aspiring Cybersecurity Analyst | 🐍 Python Automation | 🛡️ Ethical Hacker
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 
 ---
 
