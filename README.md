@@ -28,8 +28,8 @@ Currently translating my background in Asset Management into **Application Secur
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YashAnap&show_icons=true&theme=radical" alt="Yash's Stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAnap&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YashAnap&show_icons=true&theme=radical&v=1" alt="Yash's Stats" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAnap&layout=compact&theme=radical&v=1" alt="Top Langs" height="150"/>
 </div>
 
 ---
