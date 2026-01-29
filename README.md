@@ -33,7 +33,7 @@ Currently translating my background in Asset Management into **Application Secur
 
 ### 📊 Language Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAnap&layout=compact&theme=radical&hide_border=true&lang_count=6&v=2" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAnap&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=5" alt="Top Langs" />
 </div>
 
 ---
